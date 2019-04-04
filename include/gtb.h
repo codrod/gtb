@@ -2,6 +2,16 @@
     \brief Header file for Gnome TextBox
 */
 
+/*! \mainpage Overview
+	TextBox is a graphical application that provides all the functionality of a
+	modern pseudo-terminal without the burden of emulating a terminal. TextBox also
+	provides new functionality such as, event driven key binding, HTML like markup,
+	embedded images, separate read and write positions, dynamic line oriented
+	coordinates, and line editing semantics. Note you will need
+	[libtb](https://codrod.github.io/libtb/index.html) to use a TextBox in your application.
+	This implementation of TextBox uses the gtkmm bindings for the GIMP Toolkit (GTK).
+*/
+
 /*
 	add middleware
 
